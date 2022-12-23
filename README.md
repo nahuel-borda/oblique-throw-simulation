@@ -20,6 +20,6 @@ options:
   -h, --help    show this help message and exit
 ```
 
-## Execution example
+## Execution example (might take a few seconds to load the gif.)
 
 ![](oblique-shot-example.gif)
