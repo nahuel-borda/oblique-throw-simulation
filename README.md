@@ -22,3 +22,4 @@ options:
 
 ## Execution example
 
+![](oblique-shot-example.gif)
